@@ -1,1 +1,3 @@
-# Coviid19_data_analysis
+# Covid19_data_analysis
+
+A project under the guidence of Coursera.
